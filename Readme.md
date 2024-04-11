@@ -1,0 +1,4 @@
+Readme signinifica leia me
+md significa extenção  são usados principalmente pelo Markdown, para converter arquivos de texto em versões HTML para que os usuários possam criar arquivos fáceis de ler e escreve
+Markdown é uma linguagem voltada para formatação de textos. Com ela, você não precisa apertar um botão na interface para deixar o texto em itálico ou sublinhado, por exemplo. Em vez disso, é só colocar alguns marcadores enquanto digita, como underlines (_) e asteriscos (*). Para entender melhor o que é e como usar markdown, leia mais a seguir
+nesse caso o readme esta servindo para escrever todasas instruções que não fica dentro do codigo.
