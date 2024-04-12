@@ -10,3 +10,4 @@ Terceiro comando "git status" para confirmar os arquivos que estão na area de e
 quarto comando "commit -m" depois entre aspas seu comentario da alteração que foi feita dentro do commit
 Quarto commando "git branch -M "main" altera no nome da branch de Master para main
 O que é Branch base do código ganha o nome de tronco, linha de base, mestre ou linha principal. As ramificações — originadas direta ou indiretamente da linha principal –– permitem que os desenvolvedores testem novas funções isoladamente, mantendo o programa estável.
+Criando novo Projeto
